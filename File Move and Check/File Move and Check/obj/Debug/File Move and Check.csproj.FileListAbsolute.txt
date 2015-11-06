@@ -1,0 +1,6 @@
+c:\users\nic\documents\visual studio 2013\C#Projects\File Move and Check\File Move and Check\bin\Debug\File Move and Check.exe.config
+c:\users\nic\documents\visual studio 2013\C#Projects\File Move and Check\File Move and Check\bin\Debug\File Move and Check.exe
+c:\users\nic\documents\visual studio 2013\C#Projects\File Move and Check\File Move and Check\bin\Debug\File Move and Check.pdb
+c:\users\nic\documents\visual studio 2013\C#Projects\File Move and Check\File Move and Check\obj\Debug\File Move and Check.exe
+c:\users\nic\documents\visual studio 2013\C#Projects\File Move and Check\File Move and Check\obj\Debug\File Move and Check.pdb
+c:\users\nic\documents\visual studio 2013\C#Projects\File Move and Check\File Move and Check\obj\Debug\File Move and Check.csprojResolveAssemblyReference.cache
